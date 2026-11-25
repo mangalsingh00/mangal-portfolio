@@ -429,7 +429,7 @@
     <footer>
 
         <p>
-            © 2026 Bhupender Saini. All rights reserved.
+            © 2026 Mangal singh. All rights reserved.
         </p>
 
     </footer>
